@@ -1,7 +1,7 @@
 # 👋 Hola, soy Irene
 
 <p align="center">
-  <img src="1.png" width="400" height="300" style="object-fit: cover;" />
+  <img src="imagen.png" width="100%" height="500"  />
 </p>
 
 Graduada en **Ingeniería Informática** y con  **Máster en Computación y Sistemas Inteligentes** en la **Universidad de Deusto**.  
@@ -20,7 +20,7 @@ Apasionada por **Machine Learning, Deep Learning, Visión por Computador y Deep 
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IreeneGG&hide_progress=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IreeneGG&layout=compact)
 
 ---
 
