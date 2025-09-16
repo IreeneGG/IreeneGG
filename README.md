@@ -10,7 +10,7 @@
   <!-- Modo claro -->
   <source srcset="./Tarjeta.png" media="(prefers-color-scheme: light)" />
   <!-- Fallback (si no detecta tema) -->
-  <img src="./Tarjeta.png" alt="banner" width="100%" height="350px"/>
+  <img src="./Tarjeta.png" alt="banner" width="100%" height="340px"/>
 </picture>
 
 <p align="center">
