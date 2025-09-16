@@ -3,9 +3,9 @@
   <h3>Machine Learning | Deep Learning | Visión por Computador | NLP | Big Data</h3>
 </div>
 
-</div>
+<!-- Banner -->
+<img src="./Tarjeta.png" alt="banner" width="100%" height="340px"/>
 
----
 
 <p align="center">
   <a href="https://github.com/IreeneGG">
@@ -17,7 +17,7 @@
 </p>
 
 
----
+
 
 ## 🎓 Formación Académica
 
