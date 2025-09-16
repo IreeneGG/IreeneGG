@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>¡Hola! Soy Irene 👋</h1>
+  <h1>Hi! I´m Irene 👋</h1>
   <h3>Machine Learning | Deep Learning | Visión por Computador | NLP | Big Data</h3>
 </div>
 
@@ -22,14 +22,11 @@
   </a>
 </p>
 
+<p align="justify">
+I am passionate about programming, especially in <strong>frontend</strong>, and I am always eager to learn and explore new technologies. 🤖 I have trained in <strong>Artificial Intelligence</strong> and I am fascinated by its many applications, from <strong>Machine Learning</strong> and <strong>Deep Learning</strong> to <strong>computer vision</strong>.  
+As a hobby, I enjoy applying IT solutions and AI to the <strong>agricultural sector</strong> 🌱, automating processes with sensors and intelligent technologies, exploring how technology can make a real impact. 💡 Whether working with <strong>Python, Java, C#</strong> or developing web applications with <strong>React</strong> and <strong>Next.js</strong>, I am motivated to understand how things work under the hood and create <strong>efficient, innovative, and purpose-driven software</strong>.
+</p>
 
-
-
-## 🎓 Formación Académica
-
-- **Máster en Computación y Sistemas Inteligentes** – Universidad de Deusto  
-- **Grado en Ingeniería Informática** – Universidad de Deusto
-- **CFGS Desarrollo de aplicaciones multiplataforma** - Burgos
 
 ---
 
