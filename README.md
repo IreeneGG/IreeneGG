@@ -1,6 +1,8 @@
 <div align="center">
-  <h1>¡Hola! Soy Irene 👋🏻</h1>
+  <h1>¡Hola! Soy Irene 👋</h1>
   <h3>Machine Learning | Deep Learning | Visión por Computador | NLP | Big Data</h3>
+</div>
+
 </div>
 
 ---
