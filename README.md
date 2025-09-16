@@ -111,9 +111,3 @@
 </div>
 
 ---
-
-## ✨ Extra
-
-🔭 Explorando proyectos en **IA aplicada**  
-🤝 Abierta a colaborar en proyectos de investigación y desarrollo en **IA**  
-
