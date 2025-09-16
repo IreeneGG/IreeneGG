@@ -4,8 +4,14 @@
 </div>
 
 <!-- Banner -->
-<img src="./Tarjeta.png" alt="banner" width="100%" height="340px"/>
-
+<picture>
+  <!-- Modo oscuro -->
+  <source srcset="./TarjetaB.png" media="(prefers-color-scheme: dark)" />
+  <!-- Modo claro -->
+  <source srcset="./Tarjeta.png" media="(prefers-color-scheme: light)" />
+  <!-- Fallback (si no detecta tema) -->
+  <img src="./Tarjeta.png" alt="banner" width="100%" height="350px"/>
+</picture>
 
 <p align="center">
   <a href="https://github.com/IreeneGG">
