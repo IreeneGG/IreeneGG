@@ -1,31 +1,111 @@
-# 👋 Hola, soy Irene
+<div align="center">
+  <h1>¡Hola! Soy Irene 👋🏻</h1>
+  <h3>Machine Learning | Deep Learning | Visión por Computador | NLP | Big Data</h3>
+</div>
+
+---
 
 <p align="center">
-  <img src="imagen.png" width="100%" height="500"  />
+  <a href="https://github.com/IreeneGG">
+    <img src="https://img.shields.io/badge/GitHub-IreeneGG-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/irene-gonz%C3%A1lez-gonz%C3%A1lez-97344b2b7/">
+    <img src="https://img.shields.io/badge/LinkedIn-Irene%20Gonzalez%20Gonzalez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
-Graduada en **Ingeniería Informática** y con  **Máster en Computación y Sistemas Inteligentes** en la **Universidad de Deusto**.  
-Apasionada por **Machine Learning, Deep Learning, Visión por Computador y Deep Learning**.
+
+---
+
+## 🎓 Formación Académica
+
+- **Máster en Computación y Sistemas Inteligentes** – Universidad de Deusto  
+- **Grado en Ingeniería Informática** – Universidad de Deusto
+- **CFGS Desarrollo de aplicaciones multiplataforma** - Burgos
 
 ---
 
 ## 💻 Tecnologías
-**ML/DL:** Python, TensorFlow, Keras, Scikit-learn, Pandas, NumPy  
-**Visión por computador:** OpenCV, PyTorch, YOLO  
-**NLP:** spaCy, HuggingFace, GPT  
-**Big Data & Cloud:** AWS, Hadoop, Spark, Docker, MongoDB  
-**Web & Dev:** HTML, CSS, JavaScript, React, Next.js  
-**Otros:** C/C++, Java, ROS, GitHub, Linux  
 
----
+### Machine Learning & Deep Learning
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)]()
+[![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)]()
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)]()
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)]()
+
+### Visión por Computador
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)]()
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)]()
+[![RoboFlow](https://img.shields.io/badge/RoboFlow-0056D2?style=for-the-badge&logoColor=white)]()
+[![YOLO](https://img.shields.io/badge/YOLO-FF6600?style=for-the-badge&logoColor=white)]()
+
+### NLP
+[![spaCy](https://img.shields.io/badge/spaCy-0A9CDA?style=for-the-badge&logo=spacy&logoColor=white)]()
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9900?style=for-the-badge&logo=huggingface&logoColor=white)]()
+[![BERT](https://img.shields.io/badge/BERT-FFB300?style=for-the-badge&logoColor=white)]()
+[![GPT](https://img.shields.io/badge/GPT-5F43B7?style=for-the-badge&logoColor=white)]()
+
+### Big Data & Cloud
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
+[![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logoColor=white)]()
+[![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)]()
+[![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)]()
+[![CassandraDB](https://img.shields.io/badge/Cassandra-1280A0?style=for-the-badge&logo=apache-cassandra&logoColor=white)]()
+[![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF0?style=for-the-badge&logo=influxdb&logoColor=white)]()
+[![Neo4J](https://img.shields.io/badge/Neo4J-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)]()
+[![HBase](https://img.shields.io/badge/HBase-003865?style=for-the-badge&logo=apache-hbase&logoColor=white)]()
+
+### Computación de altas prestaciones
+[![CUDA](https://img.shields.io/badge/CUDA-FF9900?style=for-the-badge&logo=nvidia&logoColor=white)]()
+[![MPI](https://img.shields.io/badge/MPI-6E2585?style=for-the-badge&logoColor=white)]()
+[![OpenMP](https://img.shields.io/badge/OpenMP-007ACC?style=for-the-badge&logoColor=white)]()
+
+### Robótica & Automatización
+[![ROS](https://img.shields.io/badge/ROS-222C37?style=for-the-badge&logo=ros&logoColor=white)]()
+
+### Lenguajes de Programación
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)]()
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
+
+### Desarrollo Web & APIs
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)]()
+
+### Bases de Datos
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![NoSQL](https://img.shields.io/badge/NoSQL-FF6C37?style=for-the-badge&logoColor=white)]()
+
+### Herramientas
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
+[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)]()
+
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IreeneGG&layout=compact)
+
+
+<div align="center">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IreeneGG&layout=compact&theme=blue)
+
+
+</div>
 
 ---
 
-## 📫 Contacto
-- [GitHub](https://github.com/IreeneGG)  
-- [LinkedIn](https://www.linkedin.com/in/irene-gonz%C3%A1lez-gonz%C3%A1lez-97344b2b7/)
+## ✨ Extra
 
+🔭 Explorando proyectos en **IA aplicada**  
+🤝 Abierta a colaborar en proyectos de investigación y desarrollo en **IA**  
 
